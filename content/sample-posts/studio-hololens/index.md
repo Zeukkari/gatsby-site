@@ -1,6 +1,6 @@
 ---
 title: My Studio Via HoloLens
-date: "04/20/2017"
+date: "04/21/2017"
 cover: "logos/cover.jpg"
 category: "tech"
 tags:
