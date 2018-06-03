@@ -1,7 +1,6 @@
 ---
 title: 3D Selfie
 date: "06/20/2016"
-path: "/zeukkari3d/"
 cover: "logos/cover.jpg"
 category: "tech"
 tags:
