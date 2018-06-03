@@ -7,7 +7,6 @@ import Disqus from "../components/Disqus/Disqus";
 import PostTags from "../components/PostTags/PostTags";
 import PostCover from "../components/PostCover/PostCover";
 import PostInfo from "../components/PostInfo/PostInfo";
-import SocialLinks from "../components/SocialLinks/SocialLinks";
 import PostSuggestions from "../components/PostSuggestions/PostSuggestions";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
@@ -71,11 +70,6 @@ export default class PostTemplate extends React.Component {
             </CardText>
             <div className="post-meta">
               <PostTags tags={post.tags} />
-              <SocialLinks
-                postPath={slug}
-                postNode={postNode}
-                mobile={this.state.mobile}
-              />
             </div>
           </Card>
           <UserInfo

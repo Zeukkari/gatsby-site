@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import Card from "react-md/lib/Cards/Card";
 import CardText from "react-md/lib/Cards/CardText";
-import UserLinks from "../UserLinks/UserLinks";
 import config from "../../../data/SiteConfig";
 import "./About.scss";
 
@@ -19,7 +18,6 @@ class About extends Component {
             <CardText>
               <p className="about-text md-body-1">{config.userDescription}</p>
             </CardText>
-            <UserLinks labeled config={config} />
           </div>
         </Card>
       </div>

@@ -14,13 +14,13 @@ function GetNavList(config) {
       primaryText: "Blog",
       leftIcon: <FontIcon>list</FontIcon>,
       component: Link,
-      to: "/"
+      to: "/blog"
     },
     {
       primaryText: "About",
       leftIcon: <FontIcon>person</FontIcon>,
       component: Link,
-      to: "/about/"
+      to: "/about"
     },
     {
       divider: true

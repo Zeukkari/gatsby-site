@@ -3,7 +3,7 @@ module.exports = {
   siteTitle: "Timo Aho", // Site title.
   siteTitleAlt: "Zeukkari", // Alternative site title for SEO.
   siteLogo: "/logos/profile.png", // Logo used for SEO and manifest.
-  siteUrl: "https://vagr9k.github.io", // Domain of your website without pathPrefix.
+  siteUrl: "https://zeukkari.github.io", // Domain of your website without pathPrefix.
   pathPrefix: "/timo-aho", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "Personal blog", // Website description used for RSS feeds/meta description tag.
