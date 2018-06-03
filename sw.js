@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/zeukkari.github.io/app-2e18b683db94c39ef29a.js","078ce47bb1578184a624d027f9404bd3"],["/zeukkari.github.io/commons-3597d90db2e4584ee678.js","d5859a8968e751f1a3c97e86898e2f39"],["/zeukkari.github.io/index.html","6d29665242e7db1f279ba76eb64e6836"],["/zeukkari.github.io/offline-plugin-app-shell-fallback/index.html","0ef46e15a69884fbab8c2e2272244834"]];
+var precacheConfig = [["/gatsby-site/app-2e18b683db94c39ef29a.js","5d987f27251f92998378f06fcabf56d3"],["/gatsby-site/commons-4e2422094e129aa936b1.js","81be20a354c1149976fe0833e175cf99"],["/gatsby-site/index.html","c7279e7a9aa4cd1bd50b85aa3e0ccd9f"],["/gatsby-site/offline-plugin-app-shell-fallback/index.html","b0559592c837c12582c9300026948d44"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
