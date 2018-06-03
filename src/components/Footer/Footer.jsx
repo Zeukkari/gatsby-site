@@ -21,11 +21,13 @@ class Footer extends Component {
           </div>
           {userLinks ? <UserLinks config={config} labeled /> : null}
           <div className="rss">
+            {/*
             <Link to={url}>
               <Button flat secondary iconClassName="fa fa-rss">
                 Subscribe
               </Button>
             </Link>
+            */}
           </div>
         </div>
       </footer>
