@@ -1,0 +1,2 @@
+webpackJsonp([0xc9fd0afbd55f],{457:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/open-hab"},excerpt:"",timeToRead:1,frontmatter:{title:"OpenHAB",tags:["Youtube","Home Automation"],cover:"logos/cover.jpg",date:"02/11/2016"}}}]}},pathContext:{tag:"Home Automation"}}}});
+//# sourceMappingURL=path---tags-home-automation-0dee12d8a834926d4334.js.map

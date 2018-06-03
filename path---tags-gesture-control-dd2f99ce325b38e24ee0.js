@@ -1,0 +1,2 @@
+webpackJsonp([82965932932528],{455:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/leapgim"},excerpt:"foobar https://github.com/zeukkari/leapgim",timeToRead:1,frontmatter:{title:"Leapgim",tags:["Gesture Control"],cover:"logos/cover.jpg",date:"07/20/2017"}}}]}},pathContext:{tag:"Gesture Control"}}}});
+//# sourceMappingURL=path---tags-gesture-control-dd2f99ce325b38e24ee0.js.map

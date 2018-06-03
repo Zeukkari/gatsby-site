@@ -1,0 +1,2 @@
+webpackJsonp([0xc575f090af3],{458:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/vr-game-jam"},excerpt:"",timeToRead:1,frontmatter:{title:"VR Game Jam",tags:["Youtube","Unity","NewtonVR","Game Development"],cover:"logos/cover.jpg",date:"12/01/2017"}}}]}},pathContext:{tag:"NewtonVR"}}}});
+//# sourceMappingURL=path---tags-newton-vr-d1ab669523a6de262a75.js.map
