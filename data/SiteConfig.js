@@ -4,7 +4,7 @@ module.exports = {
   siteTitleAlt: "Zeukkari", // Alternative site title for SEO.
   siteLogo: "/logos/profile.png", // Logo used for SEO and manifest.
   siteUrl: "https://zeukkari.github.io", // Domain of your website without pathPrefix.
-  pathPrefix: "/timo-aho", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
+  // pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: true, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "Personal blog", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
@@ -13,7 +13,7 @@ module.exports = {
   // disqusShortname: "https-vagr9k-github-io-gatsby-material-starter", // Disqus shortname.
   postDefaultCategoryID: "Tech", // Default category for posts.
   userName: "Timo Aho", // Username to display in the author segment.
-  userTwitter: "zeukkari1", // Optionally renders "Follow Me" in the UserInfo segment.
+  userTwitter: "zeukkari", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Helsinki, Finland", // User location to display in the author segment.
   userAvatar: "/logos/profile.png", // User avatar to display in the author segment.
   userDescription: "I'm working on this site.", // User description to display in the author segment.
