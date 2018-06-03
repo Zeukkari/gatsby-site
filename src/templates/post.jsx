@@ -72,11 +72,6 @@ export default class PostTemplate extends React.Component {
               <PostTags tags={post.tags} />
             </div>
           </Card>
-          <UserInfo
-            className="md-grid md-cell md-cell--12"
-            config={config}
-            expanded={expanded}
-          />
           <Disqus postNode={postNode} expanded={expanded} />
         </div>
 
