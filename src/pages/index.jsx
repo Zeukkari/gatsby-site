@@ -1,5 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
+import ParticleCover from "../components/ParticleCover";
 import config from "../../data/SiteConfig";
 
 class Index extends React.Component {
@@ -10,7 +11,7 @@ class Index extends React.Component {
           <title>{config.siteTitle}</title>
           <link rel="canonical" href={`${config.siteUrl}`} />
         </Helmet>
-        <h1>placeholder</h1>
+        <ParticleCover />
       </div>
     );
   }

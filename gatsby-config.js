@@ -2,7 +2,7 @@ const config = require("./data/SiteConfig");
 
 const pathPrefix = config.pathPrefix === "/" ? "" : config.pathPrefix;
 
-const regexExcludeRobots = /^(?!\/(dev-404-page|404|offline-plugin-app-shell-fallback|tags|categories)).*$/
+const regexExcludeRobots = /^(?!\/(dev-404-page|404|offline-plugin-app-shell-fallback|tags|categories)).*$/;
 
 module.exports = {
   pathPrefix: config.pathPrefix,
@@ -13,7 +13,8 @@ module.exports = {
       feed_url: config.siteUrl + pathPrefix + config.siteRss,
       title: config.siteTitle,
       description: config.siteDescription,
-      image_url: `${config.siteUrl + pathPrefix}/logos/logo-512.png`,
+      image_url: `${config.siteUrl +
+        pathPrefix}/logos/android-chrome-512x512.png`,
       author: config.userName,
       copyright: config.copyright
     }
@@ -102,12 +103,12 @@ module.exports = {
         display: "minimal-ui",
         icons: [
           {
-            src: "/logos/logo-192.png",
+            src: "/logos/android-chrome-192x192.png",
             sizes: "192x192",
             type: "image/png"
           },
           {
-            src: "/logos/logo-512.png",
+            src: "/logos/android-chrome-512x512.png",
             sizes: "512x512",
             type: "image/png"
           }
