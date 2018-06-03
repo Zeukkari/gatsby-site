@@ -28,6 +28,9 @@ function GetNavList(config) {
   ];
 
   if (config.projectLinks) {
+    NavList.push({
+      primaryText: "Projects"
+    });
     config.projectLinks.forEach(link => {
       NavList.push({
         primaryText: link.label,
@@ -42,6 +45,9 @@ function GetNavList(config) {
   }
 
   if (config.userLinks) {
+    NavList.push({
+      primaryText: "Contact"
+    });
     config.userLinks.forEach(link => {
       NavList.push({
         primaryText: link.label,
