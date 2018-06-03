@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry Test Rock
-date: "2016-07-20T01:39:32.169Z"
-cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
+date: "07/20/2016"
+cover: "logos/cover.jpg"
 category: "tech"
 tags:
   - 3D Models

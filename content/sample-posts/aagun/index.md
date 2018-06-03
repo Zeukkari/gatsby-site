@@ -1,8 +1,8 @@
 ---
 title: 3D Selfie
-date: "2016-06-20T01:39:32.169Z"
+date: "06/20/2016"
 path: "/zeukkari3d/"
-cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
+cover: "logos/cover.jpg"
 category: "tech"
 tags:
   - 3D Models

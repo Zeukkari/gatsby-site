@@ -1,7 +1,7 @@
 ---
 title: Grove
-date: "2017-07-20T01:39:32.169Z"
-cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
+date: "07/20/2017"
+cover: "logos/cover.jpg"
 category: "tech"
 tags:
   - 3D Models
